@@ -8,7 +8,7 @@
                         <span class="text-primary">De León</span>
                     </h1>
                     <div class="subheading mb-5">
-                        Dombeyas 17 - B · Santiago Teyahualco, CP 54980 · 55 8432-5683 ·
+                        Dombeyas 17 - B · Santiago Teyahualco, CP 54980 · 55 8432-5683 · 5567282984
                         <a href="mailto:gldeleon@live.com.mx">gldeleon@live.com.mx</a>
                     </div>
                     <p class="lead mb-5">Soy un experimentado arquitecto de soluciones en software con el conocimiento para diseñar, desarrollar e implementar todo tipo de aplicaciones tecnológicas, con la capacidad para asumir la dirección técnica y asegurar todos los aspectos de los sistemas con responsabilidad y autoridad, asi mismo realizo coaching y mentoring sobre los problemas técnicos, ayudando a la evolución profesional del equipo de programadores, dando lo mejor de mi en los proyectos asignados.</p>
@@ -27,15 +27,19 @@
                     <h2 class="mb-5">Experiencia</h2>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Coordinador de desarrollo y nuevas técnologias</h3>
+                            <h3 class="mb-0">Full Stack Arquitecto DevOps </h3>
                             <div class="subheading mb-3">dentalia</div>
                             <p>Brindar las estrategias para mejorar las aplicaciones de la empresa tales como CRM, ecommerce, Sistema, POS. Atendiendo las necesidades de los diferentes departamentos y mejorando los procesos con ayuda de la tecnologia, gestión de documentación al desempeño de la actividad, siguiendo protocolos de la empresa, asi mismo capacitando al los desarrolladores Jr para mantener y agregar nuevas funcionalidades a las diferentes aplicaciones, corrección de errores de arquitectura e implementacion de nuevas soluciones.</p>
-                            <h4>Técnologias empleadas</h4>
+                            <h6>Técnologias empleadas</h6>
                             <div>
                               <b-list-group horizontal="md">
-                                <b-list-group-item button>Cras justo odio</b-list-group-item>
-                                <b-list-group-item button>Dapibus ac facilisis in</b-list-group-item>
-                                <b-list-group-item button>Morbi leo risus</b-list-group-item>
+                                <b-list-group-item button>PHP 7.2</b-list-group-item>
+                                <b-list-group-item button>MySQL</b-list-group-item>
+                                <b-list-group-item button>PostgreSQL</b-list-group-item>
+                                <b-list-group-item button>CI / CD</b-list-group-item>
+                                <b-list-group-item button>VueJs</b-list-group-item>
+                                <b-list-group-item button>AngularJs</b-list-group-item>
+                                <b-list-group-item button>Google Cloud</b-list-group-item>
                               </b-list-group>
                             </div>
                         </div>
@@ -46,6 +50,16 @@
                             <h3 class="mb-0">Web Developer</h3>
                             <div class="subheading mb-3">APE plazas</div>
                             <p>Desarrollo de aplicaciones para CRM en el cual se llevaba la administración de las plazas comerciales, labores de coordinación entre el equipo de programadores, organización del equipo de programadores asignandoles tareas y dando seguimiento de avances, resolución de incidencias relacionadas con el área, corrección de errores de arquitectura e implementacion de nuevas soluciones.</p>
+                            <h6>Técnologias empleadas</h6>
+                            <div>
+                              <b-list-group horizontal="md">
+                                <b-list-group-item button>PHP 7.2</b-list-group-item>
+                                <b-list-group-item button>MySQL</b-list-group-item>
+                                <b-list-group-item button>PostgreSQL</b-list-group-item>
+                                <b-list-group-item button>CI / CD</b-list-group-item>
+                                <b-list-group-item button>JQuery</b-list-group-item>
+                              </b-list-group>
+                            </div>
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">Septiembre 2016 - Agosto 2017</span></div>
                     </div>
@@ -54,6 +68,17 @@
                             <h3 class="mb-0">Coordinador</h3>
                             <div class="subheading mb-3">Super Mayoreo Naturista</div>
                             <p>Desarrollo de aplicaciones principalmente internas, ecommerce con conexion al ERP Intelisis para que se integre con el almacen y que los pedidos se generen en automatico, detección y advertencia de riesgos potenciales, corrección de errores de arquitectura e implementacion de nuevas soluciones.</p>
+                            <h6>Técnologias empleadas</h6>
+                            <div>
+                              <b-list-group horizontal="md">
+                                <b-list-group-item button>PHP 7.2</b-list-group-item>
+                                <b-list-group-item button>C# .Net</b-list-group-item>
+                                <b-list-group-item button>MySQL</b-list-group-item>
+                                <b-list-group-item button>SQL Server</b-list-group-item>                                
+                                <b-list-group-item button>JQuery</b-list-group-item>
+                                <b-list-group-item button>ERP</b-list-group-item>
+                              </b-list-group>
+                            </div>
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">Julio 2014 - Septiembre 2016</span></div>
                     </div>                    
@@ -130,110 +155,71 @@
             </section>
       </b-modal>
       <b-modal id="portafolio" size="xl">
-      <section class="resume-section" id="about">
+            <section class="resume-section" id="about">
                   <div class="resume-section-content">
-                    <table class="table">
-                      <tr>
-                        <th>
-                          <b-card
-                              title="Card Title"
-                              img-src="https://picsum.photos/600/300/?image=25"
-                              img-alt="Image"
-                              img-top
-                              tag="article"
-                              style="max-width: 20rem;"
-                              class="mb-2"
-                            >
-                              <b-card-text>
-                                Some quick example text to build on the card title and make up the bulk of the card's content.
-                              </b-card-text>
-                              <b-button href="#" variant="primary">Go somewhere</b-button>
+                      <div>
+                        <b-card-group>
+                            <b-card title="Title" img-src="https://placekitten.com/g/300/450" img-alt="Image" img-top>
+                            <b-card-text>
+                                This is a wider card with supporting text below as a natural lead-in to additional content.
+                                This content is a little bit longer.
+                            </b-card-text>
+                            <template #footer>
+                                <small class="text-muted">Last updated 3 mins ago</small>
+                            </template>
                             </b-card>
-                        </th>
-                        <th>
-                          <b-card
-                              title="Card Title"
-                              img-src="https://picsum.photos/600/300/?image=25"
-                              img-alt="Image"
-                              img-top
-                              tag="article"
-                              style="max-width: 20rem;"
-                              class="mb-2"
-                            >
-                              <b-card-text>
-                                Some quick example text to build on the card title and make up the bulk of the card's content.
-                              </b-card-text>
-                              <b-button href="#" variant="primary">Go somewhere</b-button>
+
+                            <b-card title="Title" img-src="https://placekitten.com/g/300/450" img-alt="Image" img-top>
+                            <b-card-text>
+                                This card has supporting text below as a natural lead-in to additional content.
+                            </b-card-text>
+                            <template #footer>
+                                <small class="text-muted">Last updated 3 mins ago</small>
+                            </template>
                             </b-card>
-                        </th>
-                        <th>
-                          <b-card
-                              title="Card Title"
-                              img-src="https://picsum.photos/600/300/?image=25"
-                              img-alt="Image"
-                              img-top
-                              tag="article"
-                              style="max-width: 20rem;"
-                              class="mb-2"
-                            >
-                              <b-card-text>
-                                Some quick example text to build on the card title and make up the bulk of the card's content.
-                              </b-card-text>
-                              <b-button href="#" variant="primary">Go somewhere</b-button>
+
+                            <b-card title="Title" img-src="https://placekitten.com/g/300/450" img-alt="Image" img-top>
+                            <b-card-text>
+                                This is a wider card with supporting text below as a natural lead-in to additional content.
+                                This card has even longer content than the first to show that equal height action.
+                            </b-card-text>
+                            <template #footer>
+                                <small class="text-muted">Last updated 3 mins ago</small>
+                            </template>
                             </b-card>
-                        </th>
-                      </tr>
-                      <tr>
-                        <th>
-                          <b-card
-                              title="Card Title"
-                              img-src="https://picsum.photos/600/300/?image=25"
-                              img-alt="Image"
-                              img-top
-                              tag="article"
-                              style="max-width: 20rem;"
-                              class="mb-2"
-                            >
-                              <b-card-text>
-                                Some quick example text to build on the card title and make up the bulk of the card's content.
-                              </b-card-text>
-                              <b-button href="#" variant="primary">Go somewhere</b-button>
+                        </b-card-group>
+                        <hr />
+                        <b-card-group>
+                            <b-card title="Title" img-src="https://placekitten.com/g/300/450" img-alt="Image" img-top>
+                            <b-card-text>
+                                This is a wider card with supporting text below as a natural lead-in to additional content.
+                                This content is a little bit longer.
+                            </b-card-text>
+                            <template #footer>
+                                <small class="text-muted">Last updated 3 mins ago</small>
+                            </template>
                             </b-card>
-                        </th>
-                        <th>
-                          <b-card
-                              title="Card Title"
-                              img-src="https://picsum.photos/600/300/?image=25"
-                              img-alt="Image"
-                              img-top
-                              tag="article"
-                              style="max-width: 20rem;"
-                              class="mb-2"
-                            >
-                              <b-card-text>
-                                Some quick example text to build on the card title and make up the bulk of the card's content.
-                              </b-card-text>
-                              <b-button href="#" variant="primary">Go somewhere</b-button>
+
+                            <b-card title="Title" img-src="https://placekitten.com/g/300/450" img-alt="Image" img-top>
+                            <b-card-text>
+                                This card has supporting text below as a natural lead-in to additional content.
+                            </b-card-text>
+                            <template #footer>
+                                <small class="text-muted">Last updated 3 mins ago</small>
+                            </template>
                             </b-card>
-                        </th>
-                        <th>
-                          <b-card
-                              title="Card Title"
-                              img-src="https://picsum.photos/600/300/?image=25"
-                              img-alt="Image"
-                              img-top
-                              tag="article"
-                              style="max-width: 20rem;"
-                              class="mb-2"
-                            >
-                              <b-card-text>
-                                Some quick example text to build on the card title and make up the bulk of the card's content.
-                              </b-card-text>
-                              <b-button href="#" variant="primary">Go somewhere</b-button>
+
+                            <b-card title="Title" img-src="https://placekitten.com/g/300/450" img-alt="Image" img-top>
+                            <b-card-text>
+                                This is a wider card with supporting text below as a natural lead-in to additional content.
+                                This card has even longer content than the first to show that equal height action.
+                            </b-card-text>
+                            <template #footer>
+                                <small class="text-muted">Last updated 3 mins ago</small>
+                            </template>
                             </b-card>
-                        </th>
-                      </tr>
-                    </table>
+                        </b-card-group>
+                        </div>
                   </div>
             </section>
     </b-modal>
