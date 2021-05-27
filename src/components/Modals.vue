@@ -185,7 +185,7 @@
                   <div class="resume-section-content">
                       <div>
                         <b-card-group deck>
-                            <b-card title="Salvemos Conciencia" img-src="@/assets/leonel.png" img-alt="" img-top>
+                            <b-card title="Salvemos Conciencia" img-src="" img-alt="" img-top>
                             <center><img class="img-fluid img-profile mx-auto mb-2" height="50px" src="../assets/portfolio/logo.salvemos.png" alt=""></center>
                             <b-card-text>
                                 PWA para atención médica por teleconsulta, se construyo desde la definicion de la Base de datos, creacion del backend REST API y el frontend, se hizo conexion con TWILIO para implementar la video llamada, agenda, control y seguimiento de consultas de pacientes. <br />Tecnologías utilizadas:
