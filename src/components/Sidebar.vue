@@ -7,7 +7,7 @@
         <!--<p>
           "Las complicaciones surgen, se consideran y se superan"
         </p>-->
-        <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="https://scontent.fmex23-1.fna.fbcdn.net/v/t1.6435-1/p200x200/122075913_3482335548497842_633949454886303973_n.jpg?_nc_cat=103&ccb=1-3&_nc_sid=7206a8&_nc_ohc=rZcQHRsv6ZYAX8UHllO&_nc_ht=scontent.fmex23-1.fna&tp=6&oh=5386075c42c909b37807979ecd4d8329&oe=609340A8" alt="">
+        <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="../assets/leonel.png" alt="">
         <nav class="mb-3 sidebar-nav left">
             <b-nav vertical>
               <b-nav-item class="sidebar-brand" active @click="hide" v-b-modal="'acercademi'"><b-icon-person-lines-fill></b-icon-person-lines-fill> Acerca de mi</b-nav-item>

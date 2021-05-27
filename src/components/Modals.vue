@@ -11,12 +11,12 @@
                         Dombeyas 17 - B · Santiago Teyahualco, CP 54980 · 55 8432-5683 · 5567282984
                         <a href="mailto:gldeleon@live.com.mx">gldeleon@live.com.mx</a>
                     </div>
-                    <p class="lead mb-5">Soy un experimentado arquitecto de soluciones en software con el conocimiento para diseñar, desarrollar e implementar todo tipo de aplicaciones tecnológicas, con la capacidad para asumir la dirección técnica y asegurar todos los aspectos de los sistemas con responsabilidad y autoridad, asi mismo realizo coaching y mentoring sobre los problemas técnicos, ayudando a la evolución profesional del equipo de programadores, dando lo mejor de mi en los proyectos asignados.</p>
+                    <p class="lead mb-5">Soy un experimentado arquitecto de soluciones en software con el conocimiento para diseñar, desarrollar e implementar todo tipo de aplicaciones tecnológicas, con la capacidad para asumir la dirección técnica y asegurar todos los aspectos de los sistemas con responsabilidad y autoridad, asi mismo realizo coaching y mentoring sobre los problemas técnicos, ayudando a la evolución profesional del equipo de programadores, dando lo mejor de mi en los proyectos asignados.</p>                    
                     <div class="social-icons">
-                        <a class="social-icon" href="#"><b-icon-linkedin></b-icon-linkedin></a>
-                        <a class="social-icon" href="#"><b-icon-facebook></b-icon-facebook></a>
-                        <a class="social-icon" href="#"><b-icon-twitter></b-icon-twitter></a>
-                        <a class="social-icon" href="#"><b-icon-instagram></b-icon-instagram></a>
+                        <a class="social-icon" target="_blank" href="https://www.linkedin.com/in/gldeleon/"><b-icon-linkedin></b-icon-linkedin></a>
+                        <a class="social-icon" target="_blank" href="https://www.facebook.com/geovannyldeleon"><b-icon-facebook></b-icon-facebook></a>
+                        <a class="social-icon" target="_blank" href="https://twitter.com/gleoneldeleon"><b-icon-twitter></b-icon-twitter></a>
+                        <a class="social-icon" target="_blank" href="https://www.instagram.com/leoneldeleond/"><b-icon-instagram></b-icon-instagram></a>
                     </div>
                 </div>
             </section>
@@ -39,7 +39,16 @@
                                 <b-list-group-item button>CI / CD</b-list-group-item>
                                 <b-list-group-item button>VueJs</b-list-group-item>
                                 <b-list-group-item button>AngularJs</b-list-group-item>
-                                <b-list-group-item button>Google Cloud</b-list-group-item>
+                                <b-list-group-item button>Google Cloud</b-list-group-item>                            
+                              </b-list-group>
+                              <b-list-group horizontal="md">
+                                <b-list-group-item button>Java Spring boot</b-list-group-item>
+                                <b-list-group-item button>Dockers</b-list-group-item>    
+                                <b-list-group-item button>Jenkins</b-list-group-item>
+                                <b-list-group-item button>NodeJs</b-list-group-item>
+                                <b-list-group-item button>Linux</b-list-group-item>
+                                <b-list-group-item button>Rest Api</b-list-group-item>
+                                <b-list-group-item button>Git</b-list-group-item>
                               </b-list-group>
                             </div>
                         </div>
@@ -58,6 +67,13 @@
                                 <b-list-group-item button>PostgreSQL</b-list-group-item>
                                 <b-list-group-item button>CI / CD</b-list-group-item>
                                 <b-list-group-item button>JQuery</b-list-group-item>
+                              </b-list-group>
+                              <b-list-group horizontal="md">
+                                <b-list-group-item button>Wordpress</b-list-group-item>
+                                <b-list-group-item button>Woocommerce</b-list-group-item>
+                                <b-list-group-item button>Moodle</b-list-group-item>
+                                <b-list-group-item button>Rest API</b-list-group-item>
+                                <b-list-group-item button>Git</b-list-group-item>
                               </b-list-group>
                             </div>
                         </div>
@@ -98,14 +114,22 @@
                             </div>
                             <div class="flex-shrink-0"><span class="text-primary">Noviembre 2020 - Actualidad</span></div>
                         </div>
-                        <!--<div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="d-flex flex-column flex-md-row justify-content-between">
                             <div class="flex-grow-1">
-                                <h3 class="mb-0">James Buchanan High School</h3>
-                                <div class="subheading mb-3">Technology Magnet Program</div>
-                                <p>GPA: 3.56</p>
+                                <h3 class="mb-0">Mercado Pago Developer Partner</h3>
+                                <div class="subheading mb-3">Certificacion en MercadoPago </div>
+                                <p>Integraciones Checkout Pro de Mercado Pago </p>
                             </div>
-                            <div class="flex-shrink-0"><span class="text-primary">August 2002 - May 2006</span></div>
-                        </div>-->
+                            <div class="flex-shrink-0"><span class="text-primary">Julio 2020</span></div>
+                        </div>
+                        <div class="d-flex flex-column flex-md-row justify-content-between">
+                            <div class="flex-grow-1">
+                                <h3 class="mb-0">Twilio Partner Program</h3>
+                                <div class="subheading mb-3">Consulting Partners</div>
+                                <p>Integraciones de las diferentes tecnologias de twilio </p>
+                            </div>
+                            <div class="flex-shrink-0"><span class="text-primary">studying 2021...</span></div>
+                        </div>
                     </div>
                 </section>
       </b-modal>
@@ -131,6 +155,8 @@
                         <li class="list-inline-item"><svg class="svg-inline--fa fa-php fa-w-18" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="php" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" data-fa-i2svg=""><path fill="currentColor" d="M320 104.5c171.4 0 303.2 72.2 303.2 151.5S491.3 407.5 320 407.5c-171.4 0-303.2-72.2-303.2-151.5S148.7 104.5 320 104.5m0-16.8C143.3 87.7 0 163 0 256s143.3 168.3 320 168.3S640 349 640 256 496.7 87.7 320 87.7zM218.2 242.5c-7.9 40.5-35.8 36.3-70.1 36.3l13.7-70.6c38 0 63.8-4.1 56.4 34.3zM97.4 350.3h36.7l8.7-44.8c41.1 0 66.6 3 90.2-19.1 26.1-24 32.9-66.7 14.3-88.1-9.7-11.2-25.3-16.7-46.5-16.7h-70.7L97.4 350.3zm185.7-213.6h36.5l-8.7 44.8c31.5 0 60.7-2.3 74.8 10.7 14.8 13.6 7.7 31-8.3 113.1h-37c15.4-79.4 18.3-86 12.7-92-5.4-5.8-17.7-4.6-47.4-4.6l-18.8 96.6h-36.5l32.7-168.6zM505 242.5c-8 41.1-36.7 36.3-70.1 36.3l13.7-70.6c38.2 0 63.8-4.1 56.4 34.3zM384.2 350.3H421l8.7-44.8c43.2 0 67.1 2.5 90.2-19.1 26.1-24 32.9-66.7 14.3-88.1-9.7-11.2-25.3-16.7-46.5-16.7H417l-32.8 168.7z"></path></svg><!-- <i class="fab fa-npm"></i> Font Awesome fontawesome.com --></li>
                         <li class="list-inline-item"><svg class="svg-inline--fa fa-gitlab fa-w-18" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="gitlab" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" data-fa-i2svg=""><path fill="currentColor" d="M105.2 24.9c-3.1-8.9-15.7-8.9-18.9 0L29.8 199.7h132c-.1 0-56.6-174.8-56.6-174.8zM.9 287.7c-2.6 8 .3 16.9 7.1 22l247.9 184-226.2-294zm160.8-88l94.3 294 94.3-294zm349.4 88l-28.8-88-226.3 294 247.9-184c6.9-5.1 9.7-14 7.2-22zM425.7 24.9c-3.1-8.9-15.7-8.9-18.9 0l-56.6 174.8h132z"></path></svg><!-- <i class="fab fa-npm"></i> Font Awesome fontawesome.com --></li>
                         <li class="list-inline-item"><svg class="svg-inline--fa fa-github fa-w-18" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="github" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" data-fa-i2svg=""><path fill="currentColor" d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"></path></svg><!-- <i class="fab fa-npm"></i> Font Awesome fontawesome.com --></li>
+                        <li class="list-inline-item"><svg class="svg-inline--fa fa-docker fa-w-18" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="docker" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" data-fa-i2svg=""><path fill="currentColor" d="M349.9 236.3h-66.1v-59.4h66.1v59.4zm0-204.3h-66.1v60.7h66.1V32zm78.2 144.8H362v59.4h66.1v-59.4zm-156.3-72.1h-66.1v60.1h66.1v-60.1zm78.1 0h-66.1v60.1h66.1v-60.1zm276.8 100c-14.4-9.7-47.6-13.2-73.1-8.4-3.3-24-16.7-44.9-41.1-63.7l-14-9.3-9.3 14c-18.4 27.8-23.4 73.6-3.7 103.8-8.7 4.7-25.8 11.1-48.4 10.7H2.4c-8.7 50.8 5.8 116.8 44 162.1 37.1 43.9 92.7 66.2 165.4 66.2 157.4 0 273.9-72.5 328.4-204.2 21.4.4 67.6.1 91.3-45.2 1.5-2.5 6.6-13.2 8.5-17.1l-13.3-8.9zm-511.1-27.9h-66v59.4h66.1v-59.4zm78.1 0h-66.1v59.4h66.1v-59.4zm78.1 0h-66.1v59.4h66.1v-59.4zm-78.1-72.1h-66.1v60.1h66.1v-60.1z"></path></svg><!-- <i class="fab fa-npm"></i> Font Awesome fontawesome.com --></li>
+                        <li class="list-inline-item"><svg class="svg-inline--fa fa-aws fa-w-18" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="aws" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" data-fa-i2svg=""><path fill="currentColor" d="M180.41 203.01c-.72 22.65 10.6 32.68 10.88 39.05a8.164 8.164 0 0 1-4.1 6.27l-12.8 8.96a10.66 10.66 0 0 1-5.63 1.92c-.43-.02-8.19 1.83-20.48-25.61a78.608 78.608 0 0 1-62.61 29.45c-16.28.89-60.4-9.24-58.13-56.21-1.59-38.28 34.06-62.06 70.93-60.05 7.1.02 21.6.37 46.99 6.27v-15.62c2.69-26.46-14.7-46.99-44.81-43.91-2.4.01-19.4-.5-45.84 10.11-7.36 3.38-8.3 2.82-10.75 2.82-7.41 0-4.36-21.48-2.94-24.2 5.21-6.4 35.86-18.35 65.94-18.18a76.857 76.857 0 0 1 55.69 17.28 70.285 70.285 0 0 1 17.67 52.36l-.01 69.29zM93.99 235.4c32.43-.47 46.16-19.97 49.29-30.47 2.46-10.05 2.05-16.41 2.05-27.4-9.67-2.32-23.59-4.85-39.56-4.87-15.15-1.14-42.82 5.63-41.74 32.26-1.24 16.79 11.12 31.4 29.96 30.48zm170.92 23.05c-7.86.72-11.52-4.86-12.68-10.37l-49.8-164.65c-.97-2.78-1.61-5.65-1.92-8.58a4.61 4.61 0 0 1 3.86-5.25c.24-.04-2.13 0 22.25 0 8.78-.88 11.64 6.03 12.55 10.37l35.72 140.83 33.16-140.83c.53-3.22 2.94-11.07 12.8-10.24h17.16c2.17-.18 11.11-.5 12.68 10.37l33.42 142.63L420.98 80.1c.48-2.18 2.72-11.37 12.68-10.37h19.72c.85-.13 6.15-.81 5.25 8.58-.43 1.85 3.41-10.66-52.75 169.9-1.15 5.51-4.82 11.09-12.68 10.37h-18.69c-10.94 1.15-12.51-9.66-12.68-10.75L328.67 110.7l-32.78 136.99c-.16 1.09-1.73 11.9-12.68 10.75h-18.3zm273.48 5.63c-5.88.01-33.92-.3-57.36-12.29a12.802 12.802 0 0 1-7.81-11.91v-10.75c0-8.45 6.2-6.9 8.83-5.89 10.04 4.06 16.48 7.14 28.81 9.6 36.65 7.53 52.77-2.3 56.72-4.48 13.15-7.81 14.19-25.68 5.25-34.95-10.48-8.79-15.48-9.12-53.13-21-4.64-1.29-43.7-13.61-43.79-52.36-.61-28.24 25.05-56.18 69.52-55.95 12.67-.01 46.43 4.13 55.57 15.62 1.35 2.09 2.02 4.55 1.92 7.04v10.11c0 4.44-1.62 6.66-4.87 6.66-7.71-.86-21.39-11.17-49.16-10.75-6.89-.36-39.89.91-38.41 24.97-.43 18.96 26.61 26.07 29.7 26.89 36.46 10.97 48.65 12.79 63.12 29.58 17.14 22.25 7.9 48.3 4.35 55.44-19.08 37.49-68.42 34.44-69.26 34.42zm40.2 104.86c-70.03 51.72-171.69 79.25-258.49 79.25A469.127 469.127 0 0 1 2.83 327.46c-6.53-5.89-.77-13.96 7.17-9.47a637.37 637.37 0 0 0 316.88 84.12 630.22 630.22 0 0 0 241.59-49.55c11.78-5 21.77 7.8 10.12 16.38zm29.19-33.29c-8.96-11.52-59.28-5.38-81.81-2.69-6.79.77-7.94-5.12-1.79-9.47 40.07-28.17 105.88-20.1 113.44-10.63 7.55 9.47-2.05 75.41-39.56 106.91-5.76 4.87-11.27 2.3-8.71-4.1 8.44-21.25 27.39-68.49 18.43-80.02z"></path></svg><!-- <i class="fab fa-npm"></i> Font Awesome fontawesome.com --></li>
                     </ul>
                     <div class="subheading mb-3">Workflow</div>
                     <ul class="fa-ul mb-0">
@@ -159,62 +185,129 @@
                   <div class="resume-section-content">
                       <div>
                         <b-card-group deck>
-                            <b-card title="Title" img-src="https://picsum.photos/300/300/?image=41" img-alt="Image" img-top>
+                            <b-card title="Salvemos Conciencia" img-src="@/assets/leonel.png" img-alt="" img-top>
+                            <center><img class="img-fluid img-profile mx-auto mb-2" height="50px" src="../assets/portfolio/logo.salvemos.png" alt=""></center>
                             <b-card-text>
-                                This is a wider card with supporting text below as a natural lead-in to additional content.
-                                This content is a little bit longer.
+                                PWA para atención médica por teleconsulta, se construyo desde la definicion de la Base de datos, creacion del backend REST API y el frontend, se hizo conexion con TWILIO para implementar la video llamada, agenda, control y seguimiento de consultas de pacientes. <br />Tecnologías utilizadas:
                             </b-card-text>
+                            <div class="container">
+                                <dl class="row">
+                                <dt class="col-sm-6">Frontend</dt>
+                                <dd class="col-sm-6">VueJs</dd>
+                                <dt class="col-sm-6">Backend</dt>
+                                <dd class="col-sm-6">Php Laravel</dd>
+                                <dt class="col-sm-6">BD</dt>
+                                <dd class="col-sm-6">MariaBD</dd>
+                                <dt class="col-sm-6">Cloud</dt>
+                                <dd class="col-sm-6">Azure</dd>
+                                </dl>
+                            </div>
                             <template #footer>
-                                <small class="text-muted">Last updated 3 mins ago</small>
+                                <small class="text-muted"><a target="_blank" href="https://app.salvemosconciencia.org/">Clic para ir a la PWA salvemos conciencia</a></small>
                             </template>
                             </b-card>
 
-                            <b-card title="Title" img-src="https://picsum.photos/300/300/?image=41" img-alt="Image" img-top>
+                            <b-card title="Control de Pesoh" img-src="" img-alt="" img-top>
+                            <center><img class="img-fluid img-profile mx-auto mb-2" height="50px" src="../assets/portfolio/logo.control.png" alt=""></center>
                             <b-card-text>
-                                This card has supporting text below as a natural lead-in to additional content.
+                                PWA para seguimiento y control de pesoh de pacientes, conexión con API de sistema 3ro que usan en los consultorios a través de REST, agenda, control y seguimiento de consultas de pacientes. <br />Tecnologías utilizadas:
                             </b-card-text>
+                            <div class="container">
+                                <dl class="row">
+                                <dt class="col-sm-6">Frontend</dt>
+                                <dd class="col-sm-6">VueJs</dd>
+                                <dt class="col-sm-6">Backend</dt>
+                                <dd class="col-sm-6">Php Laravel</dd>
+                                <dt class="col-sm-6">BD</dt>
+                                <dd class="col-sm-6">PostgreSQL</dd>
+                                <dt class="col-sm-6">Cloud</dt>
+                                <dd class="col-sm-6">Google Cloud</dd>
+                                </dl>
+                            </div>
                             <template #footer>
-                                <small class="text-muted">Last updated 3 mins ago</small>
+                                <small class="text-muted"><a target="_blank" href="https://app.salvemosconciencia.org/">Clic para ir a la PWA control de pesoh</a></small>
                             </template>
                             </b-card>
 
-                            <b-card title="Title" img-src="https://picsum.photos/300/300/?image=41" img-alt="Image" img-top>
+                            <b-card title="Agenda" img-src="" img-alt="" img-top>
+                                <center><img class="img-fluid img-profile mx-auto mb-2" height="50px" src="../assets/portfolio/logo.control.png" alt=""></center>
                             <b-card-text>
-                                This is a wider card with supporting text below as a natural lead-in to additional content.
-                                This card has even longer content than the first to show that equal height action.
+                                SPA de agenda externa para generación de citas al PWA y tiene conexión con hubspot y sistema tercero utilizado en los consultorios. <br />Tecnologías utilizadas:
                             </b-card-text>
-                            <template #footer>
-                                <small class="text-muted">Last updated 3 mins ago</small>
-                            </template>
+                            <div class="container">
+                                <dl class="row">
+                                <dt class="col-sm-6">Frontend</dt>
+                                <dd class="col-sm-6">VueJs</dd>                                
+                                <dt class="col-sm-6">Cloud</dt>
+                                <dd class="col-sm-6">Firebase</dd>
+                                </dl>
+                            </div>
+                                <template #footer>
+                                    <small class="text-muted"><a target="_blank" href="https://agenda.controldepesoh.mx/">Clic para ir a la SPA agenda control de pesoh</a></small>
+                                </template>
                             </b-card>
+
                         </b-card-group>
                             <b-card-group deck>
-                            <b-card title="Title" img-src="https://picsum.photos/300/300/?image=41" img-alt="Image" img-top>
+                            <b-card title="App Hibrida Sat2App" img-src="" img-alt="" img-top>
+                            <center><img class="img-fluid img-profile mx-auto mb-2" height="50px" src="../assets/portfolio/logo.sat2app.png" alt=""></center>
                             <b-card-text>
-                                This is a wider card with supporting text below as a natural lead-in to additional content.
-                                This content is a little bit longer.
+                                Aplicación hibrida exportada en Android APK e IOS que se conecta a un REST API. <br />Tecnologías utilizadas:
                             </b-card-text>
+                            <div class="container">
+                                <dl class="row">
+                                <dt class="col-sm-6">Frontend</dt>
+                                <dd class="col-sm-6">Ionic VueJs</dd>  
+                                <dt class="col-sm-6">Backend</dt>
+                                <dd class="col-sm-6">Php Laravel</dd>
+                                <dt class="col-sm-6">BD</dt>
+                                <dd class="col-sm-6">PostgreSQL</dd>                              
+                                <dt class="col-sm-6">Cloud</dt>
+                                <dd class="col-sm-6">Google Cloud y tiendas</dd>
+                                </dl>
+                            </div>
                             <template #footer>
-                                <small class="text-muted">Last updated 3 mins ago</small>
+                                <small class="text-muted">Aún en construcción</small>
                             </template>
                             </b-card>
 
-                            <b-card title="Title" img-src="https://picsum.photos/300/300/?image=41" img-alt="Image" img-top>
+                            <b-card title="Wagu" img-src="" img-alt="" img-top>
+                            <center><img class="img-fluid img-profile mx-auto mb-2" height="50px" src="../assets/portfolio/logo.wagu.png" alt=""></center>
                             <b-card-text>
-                                This card has supporting text below as a natural lead-in to additional content.
+                                PWA wagu, venta de boletos/lugares para viajes entre ciudades, con diferentes puntos de subida y bajada, escaneo de QR para admision de pasajero, panel de administración para altas,bajas y edición de choferes y vehiculos. <br />Tecnologías utilizadas:
                             </b-card-text>
+                            <div class="container">
+                                <dl class="row">
+                                <dt class="col-sm-6">Frontend</dt>
+                                <dd class="col-sm-6">Ionic VueJs</dd>  
+                                <dt class="col-sm-6">Backend</dt>
+                                <dd class="col-sm-6">Php Laravel</dd>
+                                <dt class="col-sm-6">BD</dt>
+                                <dd class="col-sm-6">PostgreSQL</dd>                              
+                                <dt class="col-sm-6">Cloud</dt>
+                                <dd class="col-sm-6">Google Cloud y tiendas</dd>
+                                </dl>
+                            </div>
                             <template #footer>
-                                <small class="text-muted">Last updated 3 mins ago</small>
+                                <small class="text-muted"><a target="_blank" href="https://www.wagu.mx/">Clic para ir a la PWA Wagu</a></small>
                             </template>
                             </b-card>
 
-                            <b-card title="Title" img-src="https://picsum.photos/300/300/?image=41" img-alt="Image" img-top>
+                            <b-card title="Teledentalia" img-src="" img-alt="" img-top>
+                            <center><img class="img-fluid img-profile mx-auto mb-2" height="50px" src="../assets/portfolio/logo.dentalia.png" alt=""></center>
                             <b-card-text>
-                                This is a wider card with supporting text below as a natural lead-in to additional content.
-                                This card has even longer content than the first to show that equal height action.
+                                sistema para video consultas, conectada al sistema ERP de la empresa y con el API de office 365 para crear token de llamada a travês de microsoft teams. <br />Tecnologías utilizadas:
                             </b-card-text>
+                             <div class="container">
+                                <dl class="row">
+                                <dt class="col-sm-6">Frontend</dt>
+                                <dd class="col-sm-6">VueJs</dd>                                
+                                <dt class="col-sm-6">Cloud</dt>
+                                <dd class="col-sm-6">VPS</dd>
+                                </dl>
+                            </div>
                             <template #footer>
-                                <small class="text-muted">Last updated 3 mins ago</small>
+                                <small class="text-muted"><a target="_blank" href="https://teledentalia.com/">Clic para ir a la Teledentalia</a></small>
                             </template>
                             </b-card>
                         </b-card-group>
@@ -225,6 +318,12 @@
   </div>
 </template>
 <style scoped>
+
+.img-fluid {
+    max-width: 100%;
+    height: 200px !important;
+}
+
 .modal-dialog {
     max-width: 80% !important;
     margin: 1.75rem auto !important;
