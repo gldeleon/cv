@@ -8,10 +8,10 @@
                         <span class="text-primary">De León</span>
                     </h1>
                     <div class="subheading mb-5">
-                        Dombeyas 17 - B · Santiago Teyahualco, CP 54980 · 55 8432-5683 · 5567282984
+                        Tultepec · Estado de México · CP 54980 · 55 8432-5683 · 5567282984
                         <a href="mailto:gldeleon@live.com.mx">gldeleon@live.com.mx</a>
                     </div>
-                    <p class="lead mb-5">Soy un experimentado arquitecto de soluciones en software con el conocimiento para diseñar, desarrollar e implementar todo tipo de aplicaciones tecnológicas, con la capacidad para asumir la dirección técnica y asegurar todos los aspectos de los sistemas con responsabilidad y autoridad, asi mismo realizo coaching y mentoring sobre los problemas técnicos, ayudando a la evolución profesional del equipo de programadores, dando lo mejor de mi en los proyectos asignados.</p>                    
+                    <p class="lead mb-5">Arquitecto de soluciones en software con el conocimiento para diseñar, desarrollar e implementar todo tipo de aplicaciones tecnológicas, con la capacidad para asumir la dirección técnica y asegurar todos los aspectos de los sistemas con responsabilidad y autoridad, asi mismo realizo coaching y mentoring sobre los problemas técnicos, ayudando a la evolución profesional del equipo de programadores, dando lo mejor de mi en los proyectos asignados.</p>                    
                     <div class="social-icons">
                         <a class="social-icon" target="_blank" href="https://www.linkedin.com/in/gldeleon/"><b-icon-linkedin></b-icon-linkedin></a>
                         <a class="social-icon" target="_blank" href="https://www.facebook.com/geovannyldeleon"><b-icon-facebook></b-icon-facebook></a>
